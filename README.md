@@ -8,7 +8,7 @@
 
 - Started programming in 2021
   
-- I'm learning Python
+- I'm learning Python and C++
 
 - I'm interested in Neural Networks
 
