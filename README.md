@@ -10,16 +10,12 @@
   
 - I'm learning Python, C++ and Rust
 
-- I'm interested in Neural Networks
+- I'm interested in Neural Networks...
 
-- Website development and GUI apps
+- ...website development and GUI apps
 
 - I'm looking for projects to work together
 
 - And I love cats :smirk_cat:
   
 </h3>
-
-<h1 align="center">My stats</h1>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdamantiumCode&show_icons=true&theme=radical)
