@@ -6,16 +6,16 @@
     <img src="./Images/hi.gif" width="36"/>
 </h1>
 
-<h3 align="center">
-    <q>A good programmer is someone who always looks both ways before crossing a one-way street.</q> — Doug Linder
-</h3>
-
 <div id="header" align="center">
     <img src="./Images/cat_yes_we_code.png" width=450/>
 </div>
 
+<h3 align="center">
+    <q>A good programmer is someone who always looks both ways before crossing a one-way street.</q><br> — Doug Linder</br>
+</h3>
 
----
+
+<h1></h1>
 
 <h1 align="center">
     About me
@@ -39,7 +39,8 @@
 </h4>
 
 
----
+<h1></h1>
+
 <h1 align="center">
     Languages and Tools
     <img src="./Images/stack_dev.gif" width=36>
@@ -59,7 +60,8 @@
 ![MindMeister](https://img.shields.io/badge/MindMeister-green?style=for-the-badge&logo=mozilla&logoColor=white)
 
 
----
+<h1></h1>
+
 <h1 align="center">
     My social networks
     <img src="./Images/parrot.gif" width=36>
@@ -78,7 +80,8 @@
         "></a>
 </div>
 
----
+<h1></h1>
+
 <h1 align="center">
     My Stats :fire:
 </h1>
