@@ -6,13 +6,13 @@
     <img src="./Images/hi.gif" width="36"/>
 </h1>
 
-<div id="header" align="center">
-    <img src="./Images/cat_yes_we_code.png" width=450/>
-</div>
-
 <h3 align="center">
     <q>A good programmer is someone who always looks both ways before crossing a one-way street.</q><br> — Doug Linder</br>
 </h3>
+
+<div id="header" align="center">
+    <img src="./Images/cat_yes_we_code.png" width=450/>
+</div>
 
 
 <h1></h1>
@@ -71,13 +71,11 @@
     <a href="https://t.me/AdamantiumCode">
         <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram"></a>
     <a href="https://www.reddit.com/user/AdamantiumCode/">
-        <img src="https://img.shields.io/badge/Reddit-white?style=for-the-badge&logo=reddit
-        "></a>
+        <img src="https://img.shields.io/badge/Reddit-white?style=for-the-badge&logo=reddit"></a>
     <a href="https://discordapp.com/users/957545577300770826">
         <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white"></a>
     <a href="https://www.youtube.com/channel/UC7iayX31v4StBqqlyAXhp8g">
-        <img src="https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=youtube
-        "></a>
+        <img src="https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=youtube"></a>
 </div>
 
 <h1></h1>
