@@ -88,7 +88,7 @@
 
 <h1 align="center">
   My Stats
-  <img src="./Images/star.png" width=33>
+  <img src="./Images/Star.png" width=33>
 </h1>
 
 <h1 align="center">
